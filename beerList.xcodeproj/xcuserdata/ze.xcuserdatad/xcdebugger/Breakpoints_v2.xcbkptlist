@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "4E319C92-6CA5-4C67-85D2-AE1EE0525E27"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "309B28FF-9136-4E97-BCBC-4597F9E30D84"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "beerList/BeerListScreen/View/BeerListViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "98"
+            endingLineNumber = "98"
+            landmarkName = "tableView(_:numberOfRowsInSection:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "126B1545-CB9F-4BB2-B439-C1A4002C1246"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "beerList/ServiceLayer/ServiceLayer.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "apiRequest(handler:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "126B1545-CB9F-4BB2-B439-C1A4002C1246 - c23a68783f950ce4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in beerList.ServiceLayer.apiRequest(handler: (Swift.Result&lt;Swift.Array&lt;beerList.Beer&gt;, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "beerList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nadia/Desktop/Beer%20List/beerList/beerList/ServiceLayer/ServiceLayer.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "232">
+               </Location>
+               <Location
+                  uuid = "126B1545-CB9F-4BB2-B439-C1A4002C1246 - c23a68783f950ce4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in beerList.ServiceLayer.apiRequest(handler: (Swift.Result&lt;Swift.Array&lt;beerList.Beer&gt;, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "beerList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nadia/Desktop/Beer%20List/beerList/beerList/ServiceLayer/ServiceLayer.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "396">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "37E9B68C-6B25-401D-AD8F-E723F3FFDEB3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "beerList/ServiceLayer/ServiceLayer.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "apiRequest(handler:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A56D9C38-4C09-4864-94A9-3B3241B54AF0"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "beerList/ServiceLayer/ServiceLayer.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "apiRequest(handler:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A56D9C38-4C09-4864-94A9-3B3241B54AF0 - 6b6c6fd2a1faea29"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in beerList.ServiceLayer.apiRequest() -&gt; Swift.Array&lt;beerList.Beer&gt;"
+                  moduleName = "beerList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nadia/Desktop/Beer%20List/beerList/beerList/ServiceLayer/ServiceLayer.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "408">
+               </Location>
+               <Location
+                  uuid = "A56D9C38-4C09-4864-94A9-3B3241B54AF0 - c23a68783f950cc5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in beerList.ServiceLayer.apiRequest(handler: (Swift.Result&lt;Swift.Array&lt;beerList.Beer&gt;, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "beerList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nadia/Desktop/Beer%20List/beerList/beerList/ServiceLayer/ServiceLayer.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "408">
+               </Location>
+               <Location
+                  uuid = "A56D9C38-4C09-4864-94A9-3B3241B54AF0 - c23a68783f950cc5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in beerList.ServiceLayer.apiRequest(handler: (Swift.Result&lt;Swift.Array&lt;beerList.Beer&gt;, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "beerList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nadia/Desktop/Beer%20List/beerList/beerList/ServiceLayer/ServiceLayer.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "448">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0DC74C74-A829-4956-A43E-F9B68EFCCC41"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "beerList/BeerListScreen/ViewModel/BeerListViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "getBeers()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0436D9F6-1F61-4037-A9A3-E4364E0FE34F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "beerList/BeerListScreen/ViewModel/BeerListViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "getBeers()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "354AA6E9-B135-4512-8B91-E5BAFFD3E4FC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "beerList/ServiceLayer/ServiceLayer.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "apiRequest(handler:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "354AA6E9-B135-4512-8B91-E5BAFFD3E4FC - c23a68783f950d07"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in beerList.ServiceLayer.apiRequest(handler: (Swift.Result&lt;Swift.Array&lt;beerList.Beer&gt;, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "beerList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nadia/Desktop/Beer%20List/beerList/beerList/ServiceLayer/ServiceLayer.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "128">
+               </Location>
+               <Location
+                  uuid = "354AA6E9-B135-4512-8B91-E5BAFFD3E4FC - c23a68783f950d07"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in beerList.ServiceLayer.apiRequest(handler: (Swift.Result&lt;Swift.Array&lt;beerList.Beer&gt;, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "beerList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nadia/Desktop/Beer%20List/beerList/beerList/ServiceLayer/ServiceLayer.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "216">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
